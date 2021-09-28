@@ -1,0 +1,5 @@
+#rollTide {background: #7D0000;
+background: -moz-linear-gradient(left, #7D0000 0%, #6B6B6B 50%, #7D0000 100%);
+background: -webkit-linear-gradient(left, #7D0000 0%, #6B6B6B 50%, #7D0000 100%);
+background: linear-gradient(to right, #7D0000 0%, #6B6B6B 50%, #7D0000 100%);
+}
